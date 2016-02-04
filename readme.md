@@ -1,3 +1,4 @@
 Codes from laracasts laravel-5-fundamentals series.
 https://laracasts.com/series/laravel-5-fundamentals
-Hope it would be helpful.
+
+Having source of full series is always helpful. So I have uploaded from my pc.
